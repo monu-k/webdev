@@ -13,6 +13,7 @@
 			background-color: chocolate;
 		}
 	body {
+		width: all;
 		background-color: 0000ff;
 	}
 		div {
@@ -57,7 +58,7 @@
 					width: 48%;
 			}
 			#p3 {
-				width: 99%;
+				width: 97%;
 			}
 		}
 		@media (max-width: 767px){
