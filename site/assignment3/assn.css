@@ -1,0 +1,87 @@
+body {
+	background-color: #a53884;
+	font-family: 'Oxygen', sans-serif;
+	color: #000;
+}
+* {
+	box-sizing: border-box;
+}
+#header-nav {
+background-color:#34bad8 ;
+border-radius: 0px;
+border: 0px;
+margin: 0px;
+}
+nav.navbar p {
+	margin: 10px auto 2px auto;
+}
+div.navbar-header a {
+	text-decoration: none;
+
+}
+div.navbar-header a p{
+	text-transform: uppercase;
+	background-color: #c15541;
+	font-family: cursive;
+	font-size: 18px;
+
+}
+div.container {
+	padding: 4px 0px;
+	align-content: left;
+}
+ {
+
+	margin: 0px 15px;	 
+}
+button.visible-xs {
+	float: right;
+	
+	background-color: yellow;
+}
+button.visible-xs select {
+	margin-right: 15px;
+}
+button.visible-xs option {
+	width: 100%;
+	list-style: none;
+	background-color: white;
+}
+div.monu > div {
+	text-align: center;
+	background-color:#a53884 ;
+	font-weight: bold;
+	font-size: 24px;
+}
+.row > div p {
+	background-color:#eef21a; 
+	margin-top: 0px;
+	padding: 0px 5px 0px 5px;
+}
+.row > div.ram p {
+	background-color:#eef21a; 
+	margin: 0px 0px 0px 0px;
+	padding: 0px 5px 0px 5px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+.row > div.sk p {
+	background-color:#eef21a; 
+	margin: 0px 0px 0px 0px;
+}
+ div.mk {
+	width: 100px;
+	background-color:#eef21a ;
+	text-transform: uppercase;
+	font-family: cursive sans-serif;
+	text-align: center;
+	border-radius: 10px;
+}
+ul#nav-list li a {
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	background-color:  #a53884;
+	font-size: 20px;
+}
